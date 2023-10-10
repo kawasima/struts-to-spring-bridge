@@ -4,7 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.MessageSource;
 import org.springframework.context.support.ResourceBundleMessageSource;
-import org.springframework.validation.Errors;
 import org.springframework.validation.MapBindingResult;
 import org.xml.sax.SAXException;
 

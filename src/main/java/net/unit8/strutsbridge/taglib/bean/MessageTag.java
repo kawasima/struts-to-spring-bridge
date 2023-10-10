@@ -10,8 +10,8 @@ import org.springframework.web.servlet.tags.HtmlEscapingAwareTag;
 import org.springframework.web.util.JavaScriptUtils;
 import org.springframework.web.util.TagUtils;
 
-import javax.servlet.jsp.JspException;
-import javax.servlet.jsp.JspTagException;
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspTagException;
 import java.io.IOException;
 import java.util.Locale;
 
